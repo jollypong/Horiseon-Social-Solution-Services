@@ -20,7 +20,8 @@ header h1 {
     font-size: 48px;
 }
 
-span{
+/*simplified span element to change color of header*/
+header span{
     color: #d9dcd6;
 }
 
@@ -43,15 +44,15 @@ header ul li {
     margin-left: 25px;
 }
 
+/*removed img src as now included on html to enable alt for accessibility*/
 .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
-
+/*changed */
 article {
     width: 75%;
     display: inline-block;
