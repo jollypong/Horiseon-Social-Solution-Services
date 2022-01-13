@@ -5,7 +5,7 @@ Horiseon is a web service provider that offer services such as:
 <li>search engine optimization </li>
 <li>online reputation management </li>
 <li>social media marketing</li><br>
-to improve searchability, visibility and generating more leads.
+to improve users' searchability, visibility and generating leads.
  <br><br>
  
 However, despite the services they provide, their website did not meet the accessibility standards, leaving them vulnerable to legal backlash and damage to brand's reputation. Refactoring was required to html and css to improve accessibility of their website. 
