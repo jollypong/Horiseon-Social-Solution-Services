@@ -2,30 +2,30 @@
  
 ## Description
 Horiseon is a web service provider that offer services such as:
- <li>search engine optimization </li>
- <li>online reputation management </li>
- <li>social media marketing</li><br>
+<li>search engine optimization </li>
+<li>online reputation management </li>
+<li>social media marketing</li><br>
 to improve searchability, visibility and generating more leads.
  <br><br>
  
-However, despite the services they provide, their website did not meet the accessibility standards, leaving them vulnerable to legal backlash and damage to brand's reputation. Changes to html and css was required to fix accessibility of their website. 
+However, despite the services they provide, their website did not meet the accessibility standards, leaving them vulnerable to legal backlash and damage to brand's reputation. Changes to html and css was required to improve accessibility of their website. 
 <br><br>
 
 ## Changes made 
-In order to improve and meet accessibility standard:
-- Website's title has been included in head
-- text alternatives for images 
-- images are matching in size for better visual presentation (background images)
-- operable user interface (nav bar)
+In order to improve and meet accessibility standard:<br><br>
+<li>Website's title has been included in head</li>
+<li>text alternatives for images </li>
+<li>images are matching in size for better visual presentation (background images)</li>
+<li>operable user interface (nav bar)</li>
 <br>
 As per the scout's code; additional changes were made to further improve user experience of the website: <br><br>
 <li> Semantics used in HTML </li>
-<li> CSS simplified and compiled overlapping classes/elements /li>
+<li> CSS simplified and compiled overlapping classes/elements </li>
 <li> CSS images' margins and borders corrected to align properly </li>
 <br>
 
 ## Repository
-Repository can be accessed at: https://github.com/jollypong/Horiseon-Social-Solution-Services <br><br>
+Repository can be accessed at: <br><br> https://github.com/jollypong/Horiseon-Social-Solution-Services <br><br>
 Repository contains: 
 
 	-index.html
