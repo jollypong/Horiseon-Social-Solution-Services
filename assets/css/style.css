@@ -24,7 +24,7 @@ header h1 {
 header span{
     color: #d9dcd6;
 }
-
+/*nav element added for nav function*/
 header nav { 
     padding-top: 15px;
     margin-right: 20px;
@@ -38,6 +38,7 @@ a {
     text-decoration: none;
 }
 
+/*simplified header list attributes to one*/
 header ul li {
     list-style-type: none;
     display: inline;
@@ -52,16 +53,16 @@ header ul li {
     background-size: cover;
     background-position: center;
 }
-/*changed */
+
+/*changed from div for semantics*/
 article {
     width: 75%;
     display: inline-block;
     margin-left: 25px;
 }
 
-#search-engine-optimization,
-#online-reputation-management,
-#social-media-marketing {
+/*compiled 3 class attributes*/
+.container{
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -70,6 +71,7 @@ article {
     background-color: #0072bb;
 }
 
+/*replaced class "float left and float right for clearer description for images*/
 .container img {
     max-height: 200px;
     float: left;
@@ -78,19 +80,19 @@ article {
     margin-right: 25px;
 }
 
+/*replaced class float right*/
 #online-reputation-management img {
     max-height: 200px;
     float: right;
     margin: 0px;
 }
-
+/*contains attributes of all h3 within class:container*/
 .container h2  {
     margin-bottom: 20px;
     font-size: 36px;
     font-weight:bold;
-
 }
-
+/*contains attributes of all paragraphs within class:container*/
 p {
     font-size: 16px;
     display: block;
@@ -100,6 +102,7 @@ p {
     margin-inline-end: 0px;
 }
 
+/*Replaced div with aside for semantics*/
 aside {
     margin-right: 25px;
     padding: 20px;
@@ -115,11 +118,13 @@ aside {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
 /*all fonts with heading size 3 compiled to one for class = benefits*/
 .benefits h3 {
     margin: 20px;
     text-align: center;
 }
+
 /*all image attributes compiled to one for class = benefits*/
 .benefits img {
     display: block;
@@ -133,4 +138,5 @@ footer {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-    font-size: 20px
+    font-size: 15px
+}
