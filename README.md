@@ -48,7 +48,7 @@ Website is currently deployed on git pages: <br><br>
 https://jollypong.github.io/Horiseon-Social-Solution-Services/ 
 
 ## Screenshot
-    ![Screenshot](assets/images/screenshot.png.png)
+![screenshot png](https://user-images.githubusercontent.com/77361869/149418901-ae983e01-a4bc-4ac7-bc84-8444cef396c5.png)
     
 ## Contribution
 Joe Lee @ https://github.com/jollypong
