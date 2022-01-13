@@ -8,7 +8,7 @@ Horiseon is a web service provider that offer services such as:
 to improve users' searchability, visibility and generating leads.
  <br><br>
  
-However, despite the services they provide, their website did not meet the accessibility standards, leaving them vulnerable to legal backlash and damage to brand's reputation. Refactoring was required to html and css to improve accessibility of their website. 
+However, despite the services they provide, their website did not meet the accessibility standards, leaving them vulnerable to legal backlash and damage to brand's reputation. HTML and CSS were outdated, and required to be refactored to improve user experience. 
 <br><br>
 
 ## Changes made 
